@@ -1,1 +1,1 @@
-# spaceship_titanic
+# Analyst Projects
