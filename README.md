@@ -1,1 +1,1 @@
-# Analyst Projects
+# Analytics Projects
